@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@300&family=Lato:wght@300&family=Oswald&display=swap');
+
+h1, h2, body {
+font-family: 'Bitter', serif;
+}
+
+div {
+    margin: auto;
+    width: 50%;
+    background-color: pink;
+}
+
