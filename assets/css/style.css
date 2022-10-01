@@ -27,5 +27,27 @@ img {
 
 ul {
     list-style-type: none;
+    float: right;
 }
 
+a {
+    text-decoration: none;
+}
+
+h1 {
+    float: left;
+}
+
+.benefits {
+    float: left;
+    margin: auto;
+}
+
+.mindfulyogi {
+    float: right;
+    margin: auto;
+}
+
+.mindfulness-tips {
+    float:left; 
+}
